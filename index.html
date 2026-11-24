@@ -1,1 +1,47 @@
-<!doctype html><html lang="es-AR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#315b48"><title>¿Qué comemos?</title><link rel="stylesheet" href="style.css"></head><body><header><div class="wrap"><small>COCINA COTIDIANA · ARGENTINA</small><h1>¿Qué comemos?</h1><p>Una semana organizada, un mundo por descubrir.</p></div></header><main class="wrap"><nav id="nav"></nav><section id="app" aria-live="polite"></section></main><dialog id="detail"></dialog><input type="file" id="import" accept="application/json" hidden><script src="app.js" defer></script></body></html>
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#315b48">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>¿Qué comemos?</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <script src="vendor/supabase.js" defer></script>
+  <script src="state-sync.js" defer></script>
+  <script src="account.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header>
+    <div class="wrap header-content">
+      <div>
+        <small>COCINA COTIDIANA · ARGENTINA</small>
+        <h1>¿Qué comemos?</h1>
+        <p>Una semana organizada, un mundo por descubrir.</p>
+      </div>
+      <div class="account-controls">
+        <button id="account-button">Ingresar / Crear cuenta</button>
+        <small id="account-status" role="status">Modo local</small>
+      </div>
+    </div>
+  </header>
+  <main class="wrap">
+    <nav id="nav" aria-label="Secciones"></nav>
+    <aside id="sync-conflict" class="notice" hidden>
+      <p id="sync-conflict-text" role="status"></p>
+      <div class="toolbar">
+        <button data-conflict="local">Conservar mis cambios</button>
+        <button data-conflict="remote">Conservar los cambios del hogar</button>
+        <button data-conflict="backup">Exportar mis datos</button>
+      </div>
+    </aside>
+    <section id="app"></section>
+  </main>
+  <dialog id="detail" aria-label="Detalle"></dialog>
+  <dialog id="account" aria-label="Cuenta y hogar"></dialog>
+  <input type="file" id="import" accept="application/json" hidden>
+</body>
+</html>

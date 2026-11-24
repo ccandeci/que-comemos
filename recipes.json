@@ -15729,5 +15729,3076 @@
     "cookMinutes": 20,
     "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
     "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r216",
+    "name": "Chivito al plato",
+    "protein": "vacuna",
+    "ingredients": [
+      {
+        "name": "Carne vacuna para bifes",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 170.0
+      },
+      {
+        "name": "Jamón cocido",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 40.0
+      },
+      {
+        "name": "Muzzarella",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 40.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 1.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 230.0
+      },
+      {
+        "name": "Lechuga",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 60.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Horneá las papas en bastones con aceite a 220 °C durante 25 minutos",
+      "Cociná el bife a 63 °C y dejalo reposar 3 minutos, con jamón y muzzarella encima",
+      "Serví con huevo bien cocido, lechuga, tomate y papas."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 35,
+    "country": "Uruguay",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r217",
+    "name": "Chipa guasu con ensalada",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Choclo desgranado",
+        "unit": "g",
+        "category": "Congelados",
+        "qty": 260.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 2.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 60.0
+      },
+      {
+        "name": "Muzzarella",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 65.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 35.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 120.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá la cebolla. Procesá la mitad del choclo con leche y mezclá con el resto del choclo, huevos, cebolla y muzzarella",
+      "Horneá en fuente aceitada a 190 °C por 30 minutos o hasta cuajar",
+      "Serví con el tomate en rodajas."
+    ],
+    "seasons": [
+      "verano",
+      "otoño"
+    ],
+    "minutes": 45,
+    "country": "Paraguay",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r218",
+    "name": "Silpancho cochabambino",
+    "protein": "vacuna",
+    "ingredients": [
+      {
+        "name": "Carne picada",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 150.0
+      },
+      {
+        "name": "Pan rallado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 30.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 1.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 60.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 150.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 85.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 35.0
+      },
+      {
+        "name": "Vinagre",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví el arroz y las papas por separado; dorá las papas en rodajas",
+      "Aplastá la carne sobre pan rallado hasta formar un disco fino y cociná a 71 °C",
+      "Serví sobre el arroz y las papas con huevo cocido y tomate y cebolla picados con vinagre."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 40,
+    "country": "Bolivia",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r219",
+    "name": "Llapingachos con salsa de maní",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 300.0
+      },
+      {
+        "name": "Muzzarella",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 65.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Maní",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 30.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 80.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 1.0
+      },
+      {
+        "name": "Lechuga",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 60.0
+      },
+      {
+        "name": "Pimentón",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 2.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví y pisá las papas. Formá discos con muzzarella en el centro y doralos en sartén",
+      "Rehogá cebolla y pimentón, agregá el maní molido y la leche y cociná 5 minutos",
+      "Serví las tortillas con salsa, huevo cocido y lechuga."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 40,
+    "country": "Ecuador",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r220",
+    "name": "Tacu tacu con huevo",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Porotos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 210.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 65.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 65.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Comino",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1.0
+      },
+      {
+        "name": "Ají picante",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 2.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 1.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví el arroz y dejalo orear. Salteá cebolla, ajo, comino y ají",
+      "Pisá los porotos escurridos, mezclá con el arroz y el sofrito y dorá porciones chatas en sartén",
+      "Serví con huevo cocido y tomate."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 35,
+    "country": "Perú",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r221",
+    "name": "Picadinho de carne con arroz",
+    "protein": "vacuna",
+    "ingredients": [
+      {
+        "name": "Carne vacuna para bifes",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 170.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 75.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 120.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 90.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cortá la carne en cubos y dorala por tandas",
+      "Rehogá cebolla, ajo y zanahoria. Incorporá tomate, caldo y carne y guisá a fuego suave hasta tiernizar",
+      "Mientras tanto herví el arroz y serví con el guiso."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 55,
+    "country": "Brasil",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 35,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r222",
+    "name": "Charquicán de verduras con huevo",
+    "protein": "huevo",
+    "ingredients": [
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 190.0
+      },
+      {
+        "name": "Zapallo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 180.0
+      },
+      {
+        "name": "Choclo desgranado",
+        "unit": "g",
+        "category": "Congelados",
+        "qty": 60.0
+      },
+      {
+        "name": "Arvejas",
+        "unit": "g",
+        "category": "Congelados",
+        "qty": 60.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 2.0
+      },
+      {
+        "name": "Pimentón",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 2.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla con pimentón y sumá papas y zapallo en cubos. Cubrí apenas con agua y cociná hasta tiernizar",
+      "Incorporá choclo y arvejas, herví 5 minutos y pisá dejando algunos trozos",
+      "Serví con los huevos bien cocidos."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 40,
+    "country": "Chile",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r223",
+    "name": "Ropa vieja con arroz",
+    "protein": "vacuna",
+    "ingredients": [
+      {
+        "name": "Falda vacuna",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 195.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 80.0
+      },
+      {
+        "name": "Morrón",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 140.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 75.0
+      },
+      {
+        "name": "Comino",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 2.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 4.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cociná la falda en agua a hervor suave hasta que se deshilache. Reservá parte del líquido y desmenuzá",
+      "Rehogá cebolla, morrón, ajo y comino. Sumá tomate, carne y un poco de caldo y reducí 15 minutos",
+      "Serví sobre arroz hervido."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 105,
+    "country": "Cuba",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 85,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r224",
+    "name": "Arroz con gandules adaptado con arvejas",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 95.0
+      },
+      {
+        "name": "Arvejas",
+        "unit": "g",
+        "category": "Congelados",
+        "qty": 180.0
+      },
+      {
+        "name": "Morrón",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 60.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 70.0
+      },
+      {
+        "name": "Aceitunas",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 25.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 4.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Picá fino cebolla, morrón y ajo y rehogalos. Agregá tomate y aceitunas",
+      "Sumá el arroz y las arvejas, cubrí con agua según el envase del arroz y cociná tapado a fuego suave",
+      "Dejá reposar 5 minutos y soltá los granos con un tenedor."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 35,
+    "country": "Puerto Rico",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r225",
+    "name": "Gallo pinto con huevo y tomate",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Porotos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 190.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 70.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Morrón",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Cilantro",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 8.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 1.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví el arroz. En sartén rehogá cebolla y morrón",
+      "Agregá los porotos con un poco de su líquido y el arroz; salteá hasta que quede suelto y bien caliente. Incorporá cilantro",
+      "Serví con huevo cocido y tomate cortado."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 30,
+    "country": "Costa Rica",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r226",
+    "name": "Chilaquiles rojos con huevo",
+    "protein": "huevo",
+    "ingredients": [
+      {
+        "name": "Tortillas de trigo",
+        "unit": "u",
+        "category": "Panadería",
+        "qty": 3.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 180.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 4.0
+      },
+      {
+        "name": "Ají picante",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 2.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 2.0
+      },
+      {
+        "name": "Ricota",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 50.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cortá las tortillas en triángulos y hornealas a 200 °C hasta crocantes",
+      "Rehogá cebolla, ajo y ají. Agregá el tomate triturado y reducí 10 minutos",
+      "Bañá los triángulos justo antes de servir y terminá con huevo bien cocido y ricota desgranada."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 30,
+    "country": "México",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r227",
+    "name": "Garbanzos con espinacas a la sevillana",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Garbanzos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 230.0
+      },
+      {
+        "name": "Espinaca",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 170.0
+      },
+      {
+        "name": "Pan",
+        "unit": "g",
+        "category": "Panadería",
+        "qty": 65.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 6.0
+      },
+      {
+        "name": "Pimentón",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 3.0
+      },
+      {
+        "name": "Comino",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1.0
+      },
+      {
+        "name": "Vinagre",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Dorá parte del pan con el ajo y pisalos con comino, pimentón, vinagre y 50 ml de agua por porción",
+      "Salteá la espinaca, agregá garbanzos escurridos y la pasta de pan y cociná 8 minutos",
+      "Serví con el resto del pan tostado."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 25,
+    "country": "España",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 12,
+    "cookMinutes": 13,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r228",
+    "name": "Panzanella con porotos blancos",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Pan",
+        "unit": "g",
+        "category": "Panadería",
+        "qty": 100.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 220.0
+      },
+      {
+        "name": "Pepino",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 40.0
+      },
+      {
+        "name": "Porotos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 160.0
+      },
+      {
+        "name": "Vinagre",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 12.0
+      },
+      {
+        "name": "Albahaca",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 6.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cortá el pan y tostalo si está fresco. Mezclá tomate, pepino, cebolla fina y porotos escurridos",
+      "Batí vinagre, aceite y sal. Sumá el pan y el aderezo y dejá reposar 10 minutos",
+      "Terminá con albahaca."
+    ],
+    "seasons": [
+      "verano"
+    ],
+    "minutes": 20,
+    "country": "Italia",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 10,
+    "cookMinutes": 10,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r229",
+    "name": "Croque monsieur con ensalada",
+    "protein": "cerdo",
+    "ingredients": [
+      {
+        "name": "Pan",
+        "unit": "g",
+        "category": "Panadería",
+        "qty": 110.0
+      },
+      {
+        "name": "Jamón cocido",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 85.0
+      },
+      {
+        "name": "Muzzarella",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 55.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 100.0
+      },
+      {
+        "name": "Harina de trigo",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 10.0
+      },
+      {
+        "name": "Manteca",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 10.0
+      },
+      {
+        "name": "Lechuga",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 75.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cociná manteca y harina 1 minuto, añadí leche de a poco y revolvé hasta espesar",
+      "Armá el sándwich con jamón y parte del queso; cubrí con salsa blanca y el resto de la muzzarella",
+      "Gratiná a 220 °C y acompañá con la ensalada."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 25,
+    "country": "Francia",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 12,
+    "cookMinutes": 13,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r230",
+    "name": "Spanakorizo con yogur",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 90.0
+      },
+      {
+        "name": "Espinaca",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 220.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Limón",
+        "unit": "u",
+        "category": "Verdulería",
+        "qty": 0.5
+      },
+      {
+        "name": "Yogur natural",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 80.0
+      },
+      {
+        "name": "Perejil",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla y ajo, incorporá espinaca y dejala reducir",
+      "Añadí arroz y 200 ml de agua caliente por porción. Cociná a fuego suave hasta que el arroz esté tierno",
+      "Terminá con perejil y limón y serví con yogur natural."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno",
+      "primavera"
+    ],
+    "minutes": 30,
+    "country": "Grecia",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r231",
+    "name": "Ervilhas guisadas con huevos",
+    "protein": "huevo",
+    "ingredients": [
+      {
+        "name": "Arvejas",
+        "unit": "g",
+        "category": "Congelados",
+        "qty": 230.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 2.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 110.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 65.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Pimentón",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 2.0
+      },
+      {
+        "name": "Pan",
+        "unit": "g",
+        "category": "Panadería",
+        "qty": 80.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla y ajo con pimentón. Agregá tomate, arvejas y un chorrito de agua y guisá 12 minutos",
+      "Hacé un hueco por huevo, agregalos y tapá hasta que cuajen por completo",
+      "Serví con pan."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno",
+      "primavera"
+    ],
+    "minutes": 30,
+    "country": "Portugal",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r232",
+    "name": "Käsespätzle con cebolla dorada",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Harina de trigo",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 130.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 2.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 40.0
+      },
+      {
+        "name": "Muzzarella",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 65.0
+      },
+      {
+        "name": "Queso rallado",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 25.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Manteca",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 15.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Dorá la cebolla en manteca a fuego bajo. Batí harina, huevos y leche hasta obtener una masa pegajosa",
+      "Pasá por un rallador grueso limpio sobre agua hirviendo y retirá los spätzle cuando floten y estén cocidos",
+      "Mezclá con muzzarella y queso rallado hasta fundir y cubrí con cebolla."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 35,
+    "country": "Austria",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r233",
+    "name": "Rösti de papas con champiñones",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 320.0
+      },
+      {
+        "name": "Champiñones",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 160.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Muzzarella",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 65.0
+      },
+      {
+        "name": "Manteca",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 10.0
+      },
+      {
+        "name": "Perejil",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 6.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rallá las papas y estrujalas en un repasador limpio. Dorá el rösti de ambos lados en sartén a fuego medio hasta cocinar el centro",
+      "Salteá la cebolla y los champiñones en manteca",
+      "Poné sobre el rösti con muzzarella y tapá 2 minutos para fundir; terminá con perejil."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 35,
+    "country": "Suiza",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r234",
+    "name": "Waterzooi de pollo",
+    "protein": "pollo",
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "unit": "g",
+        "category": "Pollería",
+        "qty": 180.0
+      },
+      {
+        "name": "Puerro",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 70.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 80.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 200.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 250.0
+      },
+      {
+        "name": "Crema de leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 60.0
+      },
+      {
+        "name": "Perejil",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cortá puerro, zanahoria y papa y hervilos suavemente en caldo 12 minutos",
+      "Agregá el pollo en trozos y cociná hasta que alcance 74 °C",
+      "Incorporá crema, calentá sin hervir fuerte y terminá con perejil."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 40,
+    "country": "Bélgica",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r235",
+    "name": "Hutspot con carne salteada",
+    "protein": "vacuna",
+    "ingredients": [
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 260.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 160.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 70.0
+      },
+      {
+        "name": "Carne vacuna para bifes",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 150.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 35.0
+      },
+      {
+        "name": "Mostaza",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví papa, zanahoria y cebolla hasta tiernas. Escurrí y pisá con leche",
+      "Cortá y salteá la carne hasta que alcance 63 °C; dejala reposar 3 minutos",
+      "Serví sobre el puré con un toque de mostaza."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 35,
+    "country": "Países Bajos",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r236",
+    "name": "Köttbullar con puré",
+    "protein": "vacuna",
+    "ingredients": [
+      {
+        "name": "Carne picada",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 165.0
+      },
+      {
+        "name": "Pan rallado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 20.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 85.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 0.5
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 230.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 85.0
+      },
+      {
+        "name": "Crema de leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 40.0
+      },
+      {
+        "name": "Harina de trigo",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví las papas y pisalas con parte de la leche",
+      "Mezclá carne, cebolla picada, huevo y pan rallado humedecido en el resto de la leche. Formá albóndigas y cociná a 71 °C",
+      "En la sartén incorporá harina, caldo y crema y reducí. Serví la salsa con el puré y las albóndigas."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 45,
+    "country": "Suecia",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r237",
+    "name": "Lohikeitto con merluza",
+    "protein": "pescado",
+    "ingredients": [
+      {
+        "name": "Merluza",
+        "unit": "g",
+        "category": "Pescadería",
+        "qty": 190.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 210.0
+      },
+      {
+        "name": "Puerro",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 65.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 75.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 260.0
+      },
+      {
+        "name": "Crema de leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 60.0
+      },
+      {
+        "name": "Eneldo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá puerro en rodajas, sumá papas, zanahorias y caldo y herví hasta que estén casi tiernas",
+      "Incorporá la merluza en cubos y la crema. Cociná a fuego suave hasta 63 °C internos",
+      "Terminá con eneldo y serví caliente."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 35,
+    "country": "Finlandia",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r238",
+    "name": "Colcannon con huevos",
+    "protein": "huevo",
+    "ingredients": [
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 300.0
+      },
+      {
+        "name": "Repollo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 150.0
+      },
+      {
+        "name": "Puerro",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Leche",
+        "unit": "ml",
+        "category": "Lácteos y huevos",
+        "qty": 60.0
+      },
+      {
+        "name": "Manteca",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 15.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 2.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví y escurrí las papas. Rehogá el puerro y el repollo cortado fino en manteca hasta tiernos",
+      "Pisá las papas con leche caliente, mezclá con las verduras y salpimentá",
+      "Serví con huevos cocidos."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 30,
+    "country": "Irlanda",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r239",
+    "name": "Borsch de remolacha con porotos",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Remolacha",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 200.0
+      },
+      {
+        "name": "Repollo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 120.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 60.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 40.0
+      },
+      {
+        "name": "Porotos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 150.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 250.0
+      },
+      {
+        "name": "Vinagre",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8.0
+      },
+      {
+        "name": "Yogur natural",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 55.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla y zanahoria. Agregá remolacha rallada, vinagre, caldo y papa en cubos",
+      "Cuando la papa esté casi tierna, incorporá repollo en tiras y porotos escurridos y cociná 10 minutos",
+      "Serví con yogur."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 45,
+    "country": "Ucrania",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r240",
+    "name": "Mămăligă con hongos y queso",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Polenta seca",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 90.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 350.0
+      },
+      {
+        "name": "Champiñones",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 190.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Ricota",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 75.0
+      },
+      {
+        "name": "Yogur natural",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 50.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cociná la polenta en el caldo según el envase, revolviendo",
+      "Salteá cebolla, ajo y champiñones hasta dorar",
+      "Serví los hongos sobre la polenta y terminá con ricota y yogur."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 25,
+    "country": "Rumania",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 12,
+    "cookMinutes": 13,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r241",
+    "name": "Đuveč de arroz y verduras",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 95.0
+      },
+      {
+        "name": "Morrón",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 110.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 150.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 70.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 65.0
+      },
+      {
+        "name": "Arvejas",
+        "unit": "g",
+        "category": "Congelados",
+        "qty": 80.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 60.0
+      },
+      {
+        "name": "Queso rallado",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 30.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla, morrón y zanahoria; agregá el tomate en cubos, arvejas y tomate triturado",
+      "Mezclá con arroz y 180 ml de agua por porción en fuente tapada. Horneá a 190 °C hasta que el arroz esté tierno",
+      "Terminá con queso rallado."
+    ],
+    "seasons": [
+      "primavera",
+      "verano"
+    ],
+    "minutes": 50,
+    "country": "Serbia",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 30,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r242",
+    "name": "Mercimek çorbası con pan tostado",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Lentejas rojas secas",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 95.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 75.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 55.0
+      },
+      {
+        "name": "Papas",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 100.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 300.0
+      },
+      {
+        "name": "Limón",
+        "unit": "u",
+        "category": "Verdulería",
+        "qty": 0.5
+      },
+      {
+        "name": "Pimentón",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 3.0
+      },
+      {
+        "name": "Pan",
+        "unit": "g",
+        "category": "Panadería",
+        "qty": 80.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla y zanahoria, agregá pimentón, lentejas enjuagadas, papa y caldo",
+      "Herví hasta que las lentejas se desarmen y procesá hasta obtener una crema",
+      "Agregá limón y serví con pan tostado."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 35,
+    "country": "Turquía",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 17,
+    "cookMinutes": 18,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r243",
+    "name": "Adas polo con pasas",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Lentejas secas",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 80.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 85.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 80.0
+      },
+      {
+        "name": "Pasas de uva",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 25.0
+      },
+      {
+        "name": "Canela",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.5
+      },
+      {
+        "name": "Yogur natural",
+        "unit": "g",
+        "category": "Lácteos y huevos",
+        "qty": 70.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví por separado las lentejas hasta tiernas y el arroz hasta que le falten unos minutos",
+      "Dorá la cebolla; añadí pasas y canela y salteá 1 minuto",
+      "Mezclá arroz y lentejas y cociná tapado a fuego bajo 8 minutos con un poco de agua. Serví con cebolla, pasas y yogur."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 40,
+    "country": "Irán",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r244",
+    "name": "Tajín de zapallo y garbanzos",
+    "protein": "legumbres",
+    "ingredients": [
+      {
+        "name": "Zapallo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 270.0
+      },
+      {
+        "name": "Garbanzos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 200.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 65.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 85.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 100.0
+      },
+      {
+        "name": "Comino",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 2.0
+      },
+      {
+        "name": "Canela",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.5
+      },
+      {
+        "name": "Cuscús seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 60.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Rehogá cebolla y especias; agregá zapallo, zanahoria, tomate y un chorrito de agua",
+      "Guisá tapado hasta tiernizar y agregá garbanzos escurridos durante los últimos 8 minutos",
+      "Hidratá el cuscús según el envase y serví con el guiso."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno"
+    ],
+    "minutes": 40,
+    "country": "Marruecos",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 20,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r245",
+    "name": "Arroz jollof con pollo",
+    "protein": "pollo",
+    "ingredients": [
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 90.0
+      },
+      {
+        "name": "Pechuga de pollo",
+        "unit": "g",
+        "category": "Pollería",
+        "qty": 160.0
+      },
+      {
+        "name": "Morrón",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 85.0
+      },
+      {
+        "name": "Tomate triturado",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 180.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 70.0
+      },
+      {
+        "name": "Caldo",
+        "unit": "ml",
+        "category": "Almacén",
+        "qty": 180.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 6.0
+      },
+      {
+        "name": "Ají picante",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 2.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Dorá el pollo. Procesá morrón, cebolla, tomate, ajo y ají y reducí en sartén unos 12 minutos",
+      "Agregá el arroz, caldo y pollo, tapá y cociná a fuego bajo hasta que el arroz esté tierno y el pollo llegue a 74 °C",
+      "Dejá reposar 5 minutos antes de servir."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 45,
+    "country": "Nigeria",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r246",
+    "name": "Yassa de pollo con arroz",
+    "protein": "pollo",
+    "ingredients": [
+      {
+        "name": "Muslo de pollo deshuesado",
+        "unit": "g",
+        "category": "Pollería",
+        "qty": 190.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 160.0
+      },
+      {
+        "name": "Limón",
+        "unit": "u",
+        "category": "Verdulería",
+        "qty": 1.0
+      },
+      {
+        "name": "Mostaza",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 12.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 75.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 5.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Mezclá limón, mostaza y ajo y mariná el pollo y la cebolla en la heladera 20 minutos",
+      "Dorá el pollo por separado. Guisá con cebolla y toda la marinada a hervor suave hasta 74 °C internos",
+      "Serví con arroz hervido."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 55,
+    "country": "Senegal",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "media",
+    "prepMinutes": 20,
+    "cookMinutes": 35,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r247",
+    "name": "Sukuma wiki con polenta",
+    "protein": "vegetariana",
+    "ingredients": [
+      {
+        "name": "Acelga",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 260.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 65.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 150.0
+      },
+      {
+        "name": "Garbanzos cocidos escurridos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 150.0
+      },
+      {
+        "name": "Polenta seca",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 80.0
+      },
+      {
+        "name": "Limón",
+        "unit": "u",
+        "category": "Verdulería",
+        "qty": 0.25
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Cociná la polenta espesa según el envase como acompañamiento en lugar de ugali",
+      "Rehogá cebolla, sumá tomate y reducí. Incorporá acelga picada y garbanzos escurridos hasta que todo esté tierno y caliente",
+      "Terminá con limón y serví con la polenta."
+    ],
+    "seasons": [
+      "otoño",
+      "invierno",
+      "primavera"
+    ],
+    "minutes": 30,
+    "country": "Kenia",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r248",
+    "name": "Tomate salteado con huevo y arroz",
+    "protein": "huevo",
+    "ingredients": [
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 3.0
+      },
+      {
+        "name": "Tomate",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 260.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 80.0
+      },
+      {
+        "name": "Cebolla de verdeo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 30.0
+      },
+      {
+        "name": "Azúcar",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 3.0
+      },
+      {
+        "name": "Salsa de soja",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví el arroz. Revolvé los huevos en sartén hasta cuajar y retirá",
+      "Salteá tomate en gajos con azúcar, soja y la parte blanca de la cebolla de verdeo hasta que suelte jugo",
+      "Volvé a agregar el huevo, calentá y serví sobre arroz con la parte verde picada."
+    ],
+    "seasons": [
+      "primavera",
+      "verano"
+    ],
+    "minutes": 25,
+    "country": "China",
+    "cost": "económico",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 12,
+    "cookMinutes": 13,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r249",
+    "name": "Yakisoba de cerdo y repollo",
+    "protein": "cerdo",
+    "ingredients": [
+      {
+        "name": "Fideos secos",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 100.0
+      },
+      {
+        "name": "Carne de cerdo",
+        "unit": "g",
+        "category": "Carnicería",
+        "qty": 150.0
+      },
+      {
+        "name": "Repollo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 110.0
+      },
+      {
+        "name": "Zanahoria",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 80.0
+      },
+      {
+        "name": "Cebolla",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 50.0
+      },
+      {
+        "name": "Salsa de soja",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 18.0
+      },
+      {
+        "name": "Vinagre",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 7.0
+      },
+      {
+        "name": "Azúcar",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 4.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví los fideos al dente y escurrilos. Mezclá soja con vinagre y azúcar",
+      "Salteá el cerdo en tiras hasta que esté bien cocido. Sumá cebolla, zanahoria y repollo y salteá a fuego fuerte",
+      "Agregá fideos y salsa y mezclá hasta calentar."
+    ],
+    "seasons": [
+      "todas"
+    ],
+    "minutes": 30,
+    "country": "Japón",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
+  },
+  {
+    "id": "r250",
+    "name": "Pad kra pao adaptado con albahaca",
+    "protein": "pollo",
+    "ingredients": [
+      {
+        "name": "Pechuga de pollo",
+        "unit": "g",
+        "category": "Pollería",
+        "qty": 165.0
+      },
+      {
+        "name": "Arroz seco",
+        "unit": "g",
+        "category": "Almacén",
+        "qty": 85.0
+      },
+      {
+        "name": "Albahaca",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 14.0
+      },
+      {
+        "name": "Ajo",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 6.0
+      },
+      {
+        "name": "Ají picante",
+        "unit": "g",
+        "category": "Verdulería",
+        "qty": 3.0
+      },
+      {
+        "name": "Salsa de soja",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 16.0
+      },
+      {
+        "name": "Azúcar",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 4.0
+      },
+      {
+        "name": "Huevos",
+        "unit": "u",
+        "category": "Lácteos y huevos",
+        "qty": 1.0
+      },
+      {
+        "name": "Aceite",
+        "unit": "ml",
+        "category": "Despensa",
+        "qty": 8
+      },
+      {
+        "name": "Sal",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 1
+      },
+      {
+        "name": "Pimienta",
+        "unit": "g",
+        "category": "Despensa",
+        "qty": 0.2
+      }
+    ],
+    "steps": [
+      "Herví el arroz. Picá el pollo a cuchillo y saltealo con ajo y ají hasta 74 °C",
+      "Agregá soja, azúcar y un chorrito de agua. Reducí y mezclá con la albahaca fuera del fuego",
+      "Serví sobre el arroz con huevo bien cocido."
+    ],
+    "seasons": [
+      "primavera",
+      "verano"
+    ],
+    "minutes": 25,
+    "country": "Tailandia",
+    "cost": "medio",
+    "tip": "",
+    "heat": 0,
+    "base": 1,
+    "difficulty": "fácil",
+    "prepMinutes": 12,
+    "cookMinutes": 13,
+    "freeze": "Evaluar según los ingredientes; no congelar ensaladas frescas.",
+    "ahead": "Se pueden preparar los ingredientes con anticipación, refrigerados."
   }
 ]
