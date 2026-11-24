@@ -12,10 +12,10 @@ const HouseholdState = (() => {
     menu: 'Menú semanal', history: 'Historial', favorites: 'Favoritos',
     excluded: 'Recetas excluidas', custom: 'Recetas propias', pantry: 'Despensa',
     checked: 'Compras', manual: 'Productos agregados', ratings: 'Calificaciones',
-    prefs: 'Preferencias'
+    prefs: 'Preferencias', worldTried: 'Historial'
   };
   const collections = {
-    history: x => x.week, favorites: x => x, excluded: x => x,
+    history: x => x.week, worldTried: x => x, favorites: x => x, excluded: x => x,
     custom: x => x.id, manual: x => x.id, rapid: x => x
   };
 
