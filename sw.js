@@ -1,6 +1,6 @@
 'use strict';
 
-const cacheName = 'que-comemos-static-v2';
+const cacheName = 'que-comemos-static-v3';
 const files = [
   './', 'index.html', 'style.css', 'app.js', 'account.js', 'state-sync.js',
   'vendor/supabase.js', 'recipes.json', 'manifest.webmanifest',

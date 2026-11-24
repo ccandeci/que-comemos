@@ -67,7 +67,9 @@ const HouseholdState = (() => {
         calendar.menu = choose(['menu'], local.menu, remote.menu);
       }
     }
-    return {state: {...mergeRecord(otherFields(base), otherFields(local), otherFields(remote), []), ...calendar}, conflicts: [...conflicts]};
+    const combined = {...mergeRecord(otherFields(base), otherFields(local), otherFields(remote), []), ...calendar};
+    // The app edits this result in place. Keep it independent of the server baseline.
+    return {state: structuredClone(combined), conflicts: [...conflicts]};
   }
 
   return {equal, merge};
